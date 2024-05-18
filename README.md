@@ -11,16 +11,8 @@
  I m <b> Abhishek Kasare</b>,A professional DevOps/platform engineer with more than <b>2+ years</b>. As a professional, I have the immense aptitude for learning and the ability to adapt and excel in a multicultural environment. As a person, I am friendly and good at motivating people in a team environment. With my hard work, I developed effective research and analytical skills as well as the ability to meet deadlines under pressure. I always passionate about understanding the core concepts behind different popular Technological Fields. 
 
 
- 
- <br>
-
-![](https://komarev.com/ghpvc/?username=abhishekkasare) <br><br>
-</br>
-
-
-💻 Skilled in Full-stack development as a MERN stack devloper and also having working expertise with flask framework .\
-♾️ DevOps Skills : Ansible,kubernetes,Terraform,jenkins,shell scripting, Docker, Devops on AWS, Git and Github,openshift.\
-⚙️ Artificial Intelligence skill: Machine learning, Deep learning, NLP, Reinforcement learning AI on AWS(kendra,sagemaker,lex,polly,textrack and many more).\
+♾️ DevOps Skills : Ansible,kubernetes,Terraform,jenkins,shell scripting, Docker, Devops on AWS, Git and Github .\
+⚙️ Artificial Intelligence skill: Reinforcement learning AI on AWS(kendra,sagemaker,lex,polly,textrack and many more).\
 👨‍💻 Programming Languages: Python,C/C++,Kotlin,java,R .\
 📫 How to reach me: Mail me : <a href="kasare.abhishek555@gmail.com">Abhishek Kasare</a>
 
