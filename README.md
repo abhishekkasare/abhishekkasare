@@ -68,19 +68,6 @@ but also gives you various benefits which can improve the quality of your life. 
  [![Ansible](https://img.shields.io/badge/-ansible-326CE5?style=flat-square&logo=ansible&logoColor=000000)](https://ansible.io/)
 
 
-
-
-
-
-<h3 align="center">
- Show some ❤️ by starring some of the repositories!
-</h3>
-
-
-<p align=center>
- <img src="https://github-readme-stats.vercel.app/api?username=abhikesare9&show_icons=true&theme=tokyonight&count_private=true" />
-</p>
-
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to [reach out](https://wa.me/+919022841846) and introduce yourself (don’t just say hi, tell me about yourself")</b> 😊 💜</em>
   
 
