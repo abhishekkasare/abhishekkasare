@@ -18,9 +18,6 @@
 </br>
 
 
- 
- 
- 
 ♾️ DevOps Skills : Ansible,Kubernetes,Terraform,Jenkins,shell scripting, Docker, Devops on AWS, Git and Github.\
 ⚙️ Artificial Intelligence skill: Reinforcement learning AI on AWS(Kendra,Sagemaker,Lex,Polly,Textrack and many more).\
 👨‍💻 Programming Languages: Python .\
