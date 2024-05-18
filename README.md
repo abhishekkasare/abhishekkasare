@@ -14,18 +14,17 @@
  
  <br>
 
-![](https://komarev.com/ghpvc/?username=abhikesare9) <br><br>
+![](https://komarev.com/ghpvc/?username=abhishekkasare) <br><br>
 </br>
 
 
  
  
  
-💻 Skilled in Full-stack development as a MERN stack devloper and also having working expertise with flask framework .\
-♾️ DevOps Skills : Ansible,kubernetes,Terraform,jenkins,shell scripting, Docker, Devops on AWS, Git and Github,openshift.\
-⚙️ Artificial Intelligence skill: Machine learning, Deep learning, NLP, Reinforcement learning AI on AWS(kendra,sagemaker,lex,polly,textrack and many more).\
-👨‍💻 Programming Languages: Python,C/C++,Kotlin,java,R .\
-📫 How to reach me: Mail me : <a href="abhikesare9@gmail.com">Abhishek Kesare</a>
+♾️ DevOps Skills : Ansible,Kubernetes,Terraform,Jenkins,shell scripting, Docker, Devops on AWS, Git and Github.\
+⚙️ Artificial Intelligence skill: Reinforcement learning AI on AWS(Kendra,Sagemaker,Lex,Polly,Textrack and many more).\
+👨‍💻 Programming Languages: Python .\
+📫 How to reach me: Mail me : <a href="kasare.abhishek555@gmail.com">Abhishek Kasare</a>
 
 
  
@@ -34,25 +33,20 @@
 <img align='right' src='https://github.com/abhikesare9/abhikesare999/blob/37db57b158adab5ff0259561f879ac5e29adaf8d/technologies/tenor.gif' width='200"'>
  
 Having a hobby is a <b>great</b><b> thing</b> for each and everyone because it not only entertains you,
-but also gives you various benefits which can improve the quality of your life. It <b>reduces your mental stress and gives a soothing and relaxing feeling</b>. My hobby is same as most among us like watching netflix and movies. <b>Reading books based on Tech</b> Also I have started writing <a href="https://abhikesare.medium.com/">Blogs</a> .Also most of the time learning new algo gives me joy.
+but also gives you various benefits which can improve the quality of your life. It <b>reduces your mental stress and gives a soothing and relaxing feeling</b>. My hobby is same as most among us like watching netflix and movies. <b>Reading books based on Tech.
 ##
 
 
 ### My Technologies
 <p align="center">
  <img height="200" width="200" src="https://github.com/abhikesare9/abhikesare999/blob/b21049028d37f70f80f155afd8d12e00635bbf8d/technologies/devops.png" />
- <img height="200" width="200" src="https://github.com/abhikesare9/abhikesare999/blob/b21049028d37f70f80f155afd8d12e00635bbf8d/technologies/mern.jpg" />
  <img height="200" width="200" src="https://github.com/abhikesare9/abhikesare999/blob/b21049028d37f70f80f155afd8d12e00635bbf8d/technologies/ai.jpg" />
  <img height="200" width="200" src="https://github.com/abhikesare9/abhikesare999/blob/6719f11282fec99a263e4bb34f27df335eb60c90/technologies/cloud.jpg" />
  
 
 ### Technical Tools
 
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-[![FastAPI](https://img.shields.io/badge/Python_framework-FastAPI-teal?style=flat-square&logo=python&logoColor=white)](https://fastapi.tiangolo.com/)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 [![Terraform](https://img.shields.io/badge/Learning-Terraform-623ce4?style=flat-square&logo=terraform&logoColor=white)](https://www.terraform.io/)
 [![AWS](https://img.shields.io/badge/Learning-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://github.com/br3ndonland/awsdev)
 [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
@@ -81,14 +75,6 @@ but also gives you various benefits which can improve the quality of your life. 
 
 
 
-## 📝 My Technical Blog Posts Updates 🤓
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@abhikesare/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@abhikesare/0" alt="Recent Article 0"> 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@abhikesare/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@abhikesare/1" alt="Recent Article 1"> 
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@abhikesare/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@abhikesare/2" alt="Recent Article 2"> 
- 
-
-
-
 <h3 align="center">
  Show some ❤️ by starring some of the repositories!
 </h3>
@@ -104,16 +90,8 @@ but also gives you various benefits which can improve the quality of your life. 
 
 ## Connect with me
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/abhishek-kesare)
-[<img src ="https://img.shields.io/badge/Download-Resume-AA00FF.svg?&style=for-the-badge&logo=docusign&logoColor=white%22">](https://www.linkedin.com/in/abhishek-kesare/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAADAGpd4BLfVen4KReJZy5t4lqLnu94xk8sE,1635474680129)/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BnTA8xI0WSv%2BGE4uAE5uVOA%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_profile_view_base-featured_item_detail_view)
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://https://www.instagram.com/_abhi_24_6/)
-<a href="https://medium.com/@abhikesare" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/abhishek-kasare-651827154/)
 
-
-<p align="center"> 
- <b> Can you break this count?</b><br>
-  <img src="https://profile-counter.glitch.me/hackcoderr/count.svg" />
-</p>
 
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
